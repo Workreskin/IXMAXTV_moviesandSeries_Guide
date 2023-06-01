@@ -8,8 +8,8 @@
     "Banner_idF": "",
     "Interstitial_idF": "",
 
-    "inter_max": "",
-    "max_banner": "",
+    "inter_max": "ade22e9942d2e0aa",
+    "max_banner": "369622707d677468",
 
     "key_iron" : "",
 
